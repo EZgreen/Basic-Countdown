@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40vh;
+    background: rgb(37,11,232);
+    background: linear-gradient(97deg, rgba(37,11,232,0.6867121848739496) 13%, rgba(44,177,212,0.804359243697479) 63%, rgba(248,251,248,0.5) 100%, rgba(160,210,238,0.9864320728291317) 100%);
+
+}
+
+#countdownTimer {
+    color: white;
+    font-size: 5rem;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
