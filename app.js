@@ -1,3 +1,5 @@
+import React from 'react';
+
 const startTiming = 20;
 let time = startTiming * 60;
 
